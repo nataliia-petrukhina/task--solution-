@@ -1,0 +1,247 @@
+{
+    "projects": [
+      {
+        "id": 1258,
+        "name": "1258 - PDM - Produkt - Anwendungen - 2025",
+        "description": "All products and applications related to the core platforms such as the Gelbe Seiten, Das Örtliche, and Das Telefonbuch, and HAVERZ.",
+        "Tasks": [
+          {
+            "name": "Februar'25",
+            "subtasks": [
+              {
+                "name": "Entwicklung",
+                "subtasks": [
+                  {
+                    "name": "Beratungsleistung und Produktentwicklung - Februar'25",
+                    "subtasks": [
+                      { "name": "(SK) - BuP - Februar'25" },
+                      { "name": "(ML) - BuP - Februar'25" },
+                      { "name": "(PM) - BuP - Februar'25" }
+                    ]
+                  },
+                  {
+                    "name": "Entwicklungsleistung und Programmierung - Februar'25",
+                    "subtasks": [
+                      { "name": "(ML) - EuP - Februar'25" },
+                      { "name": "(PM) - EuP - Februar'25" },
+                      { "name": "(FB) - EuP - Februar'25" },
+                      { "name": "(JW) - EuP - Februar'25" }
+                    ]
+                  },
+                  {
+                    "name": "Kommunikationsdesign - Februar'25",
+                    "subtasks": [
+                      { "name": "(VK) - Kom - Februar'25" },
+                      { "name": "(AR) - Kom - Februar'25" }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "März'25",
+            "subtasks": [
+              {
+                "name": "Entwicklung",
+                "subtasks": [
+                  {
+                    "name": "Beratungsleistung und Produktentwicklung - März'25",
+                    "subtasks": [
+                      { "name": "(SK) - BuP - März'25" },
+                      { "name": "(ML) - BuP - März'25" },
+                      { "name": "(PM) - BuP - März'25" }
+                    ]
+                  },
+                  {
+                    "name": "Entwicklungsleistung und Programmierung - März'25",
+                    "subtasks": [
+                      { "name": "(ML) - EuP - März'25" },
+                      { "name": "(PM) - EuP - März'25" },
+                      { "name": "(FB) - EuP - März'25" },
+                      { "name": "(JW) - EuP - März'25" }
+                    ]
+                  },
+                  {
+                    "name": "Kommunikationsdesign - März'25",
+                    "subtasks": [
+                      { "name": "(VK) - Kom - März'25" },
+                      { "name": "(AR) - Kom - März'25" }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Monatsbuchung - April'25",
+                "subtasks": [
+                  {
+                    "name": "Entwicklung",
+                    "subtasks": [
+                      {
+                        "name": "Beratungsleistung und Produktentwicklung - April'25",
+                        "subtasks": [
+                          { "name": "(SK) - BuP - April'25" },
+                          { "name": "(ML) - BuP - April'25" },
+                          { "name": "(PM) - BuP - April'25" }
+                        ]
+                      },
+                      {
+                        "name": "Entwicklungsleistung und Programmierung - April'25",
+                        "subtasks": [
+                          { "name": "(ML) - EuP - April'25" },
+                          { "name": "(PM) - EuP - April'25" },
+                          { "name": "(FB) - EuP - April'25" },
+                          { "name": "(JW) - EuP - April'25" }
+                        ]
+                      },
+                      {
+                        "name": "Kommunikationsdesign - April'25",
+                        "subtasks": [
+                          { "name": "(VK) - Kom - April'25" },
+                          { "name": "(AR) - Kom - April'25" }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1260,
+        "name": "1260 - PDM - Produkt - Horizont - 2025",
+        "description": "All products and applications related to innovation (horizont)",
+        "Tasks": [
+          {
+            "name": "Februar'25",
+            "subtasks": [
+              {
+                "name": "Entwicklung",
+                "subtasks": [
+                  {
+                    "name": "Beratungsleistung und Produktentwicklung - Februar'25",
+                    "subtasks": [
+                      { "name": "(SK) - BuP - Februar'25" },
+                      { "name": "(ML) - BuP - Februar'25" },
+                      { "name": "(PM) - BuP - Februar'25" }
+                    ]
+                  },
+                  {
+                    "name": "Entwicklungsleistung und Programmierung - Februar'25",
+                    "subtasks": [
+                      { "name": "(ML) - EuP - Februar'25" },
+                      { "name": "(PM) - EuP - Februar'25" },
+                      { "name": "(FB) - EuP - Februar'25" },
+                      { "name": "(JW) - EuP - Februar'25" }
+                    ]
+                  },
+                  {
+                    "name": "Kommunikationsdesign - Februar'25",
+                    "subtasks": [
+                      { "name": "(VK) - Kom - Februar'25" },
+                      { "name": "(AR) - Kom - Februar'25" }
+                    ]
+                  },
+                  {
+                    "name": "Business Development - Februar'25",
+                    "subtasks": [
+                      { "name": "(TS) - BD - Februar'25" },
+                      { "name": "(LN) - BD - Februar'25" },
+                      { "name": "(SN) - BD - Februar'25" }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "März'25",
+            "subtasks": [
+              {
+                "name": "Entwicklung",
+                "subtasks": [
+                  {
+                    "name": "Beratungsleistung und Produktentwicklung - März'25",
+                    "subtasks": [
+                      { "name": "(SK) - BuP - März'25" },
+                      { "name": "(ML) - BuP - März'25" },
+                      { "name": "(PM) - BuP - März'25" }
+                    ]
+                  },
+                  {
+                    "name": "Entwicklungsleistung und Programmierung - März'25",
+                    "subtasks": [
+                      { "name": "(ML) - EuP - März'25" },
+                      { "name": "(PM) - EuP - März'25" },
+                      { "name": "(FB) - EuP - März'25" },
+                      { "name": "(JW) - EuP - März'25" }
+                    ]
+                  },
+                  {
+                    "name": "Kommunikationsdesign - März'25",
+                    "subtasks": [
+                      { "name": "(VK) - Kom - März'25" },
+                      { "name": "(AR) - Kom - März'25" }
+                    ]
+                  },
+                  {
+                    "name": "Business Development - März'25",
+                    "subtasks": [
+                      { "name": "(TS) - BD - März'25" },
+                      { "name": "(LN) - BD - März'25" },
+                      { "name": "(SN) - BD - März'25" }
+                    ]
+                  }
+                ]
+              },
+              {
+                "name": "Monatsbuchung - April'25",
+                "subtasks": [
+                  {
+                    "name": "Entwicklung",
+                    "subtasks": [
+                      {
+                        "name": "Beratungsleistung und Produktentwicklung - April'25",
+                        "subtasks": [
+                          { "name": "(SK) - BuP - April'25" },
+                          { "name": "(ML) - BuP - April'25" },
+                          { "name": "(PM) - BuP - April'25" }
+                        ]
+                      },
+                      {
+                        "name": "Entwicklungsleistung und Programmierung - April'25",
+                        "subtasks": [
+                          { "name": "(ML) - EuP - April'25" },
+                          { "name": "(PM) - EuP - April'25" },
+                          { "name": "(FB) - EuP - April'25" },
+                          { "name": "(JW) - EuP - April'25" }
+                        ]
+                      },
+                      {
+                        "name": "Kommunikationsdesign - April'25",
+                        "subtasks": [
+                          { "name": "(VK) - Kom - April'25" },
+                          { "name": "(AR) - Kom - April'25" }
+                        ]
+                      },
+                      {
+                        "name": "Business Development - April'25",
+                        "subtasks": [
+                          { "name": "(TS) - BD - April'25" },
+                          { "name": "(LN) - BD - April'25" },
+                          { "name": "(SN) - BD - April'25" }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

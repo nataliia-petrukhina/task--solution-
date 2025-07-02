@@ -1,0 +1,10 @@
+(async () => {
+  try {
+    await client.connect();
+    const db = client.db(); // mydb из URI
+    tasks = db.collection('projectTasks');
+    console.log('✅ Успешное подключение к MongoDB');
+  } catch (err) {
+    console.error('❌ Ошибка подключения к MongoDB:', err.message);
+  }
+})();
